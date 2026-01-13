@@ -1,13 +1,17 @@
 ---
 layout: default
 modal-id: 6
-title: TryHackMe Journal
+title: "TryHackMe Journal"
 img: tryhackme.png
-alt: image-alt
+alt: "TryHackMe Journal Image"
 
-# Add the link to your journal below 
-(https://docs.google.com/document/d/1Y2flnvVaX_jCC50-adm5mTgw6zXe1fnYi_xSJRLdW5c/edit?usp=sharing)
+# Link to your journal
+journal-link: "https://docs.google.com/document/d/1Y2flnvVaX_jCC50-adm5mTgw6zXe1fnYi_xSJRLdW5c/edit?usp=sharing"
 
-# Once you've completed your project, update the 'description' below to this one: Completed 17 TryHackMe rooms, gaining hands-on skills in Linux and Windows fundamentals, log analysis, network troubleshooting with Wireshark, and incident handling with Splunk.
-description: This project is in progress and not ready to be published just yet. Please contact me if you'd like a sneak peek. Otherwise, stay tuned!
+# Description of the project
+description: >
+  This project is in progress and not yet ready for publication. 
+  Completed 17 TryHackMe rooms, gaining hands-on skills in Linux and Windows fundamentals, 
+  log analysis, network troubleshooting with Wireshark, and incident handling with Splunk. 
+  Please contact me if you'd like a sneak peek. Otherwise, stay tuned!
 ---
